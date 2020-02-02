@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubbishspitfire/bamazon.git"
+  },
+  "author": "Patience Condell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbishspitfire/bamazon/issues"
+  },
+  "homepage": "https://github.com/rubbishspitfire/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
